@@ -69,7 +69,7 @@ function Header() {
           </button>
           <h1 className="flex gap-2  py-4 pr-6 text-2xl font-bold  cursor-pointer md:ml-0 flew-row 
            text-[#3218BF] ">
-            <Link href='/' className='text-none text-[#7b6796]'>
+            <Link to='/' className='text-none text-[#7b6796]'>
 ميراث النبوة
 
             </Link>

@@ -20,15 +20,15 @@ function SummariesDetail() {
             <div key={e.id} className='flex flex-col 
            w-[20rem] h-[15rem] max-w-sm p-4 pb-6
          mx-auto transition-all duration-300 transform
-          shadow-md shadow-purple-200 cursor-pointer
+          shadow-md  cursor-pointer
           lg:p-12 lg:pb-6 hover:-translate-y-1n
-           hover:shadow-xl hover:shadow-purple-200 hover:scale-110 justify-center items-center '>
+           hover:shadow-xl  hover:scale-110 justify-center items-center '>
               <img src='icons/test2.png' alt='' className='   w-[4rem] h-[4rem]' />
               <h1 className='font-bold text-[18px] text-center '>{e.title}</h1>
               <a download href={`resumePDF/${e.pdf}`}>
 
-                <button className='w-full px-3 py-2 mt-3 font-semibold
-             text-white bg-[#7b6796] focus:outline-none hover:opacity-80'>
+                <button className='w-full px-3 py-2 mt-3 mb-2 font-semibold
+             text-white bg-[#777f87] focus:outline-none hover:opacity-80'>
                   تحميل الملخص
                 </button>
               </a>

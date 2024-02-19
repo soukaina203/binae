@@ -8,12 +8,15 @@ import { FaMosque } from "react-icons/fa";
 import { FaMoon } from "react-icons/fa6";
 import { IoSunnyOutline } from "react-icons/io5";
 import { IoBookSharp } from "react-icons/io5";
+import { FaFilePen } from "react-icons/fa6";
 
 function Lecture() {
 
   const icons = [<FaMosque className=' w-[4rem] h-[4rem] text-[#55626E] ' />,
   <FaMoon className='w-[4rem] h-[4rem] text-[#55626E]' />, <IoSunnyOutline className='w-[4rem] h-[4rem] text-[#55626E]' />,
-<IoBookSharp className='w-[4rem] h-[4rem] text-[#55626E]'/>
+<IoBookSharp className='w-[4rem] h-[4rem] text-[#55626E]'/>,
+<FaFilePen className='w-[4rem] h-[4rem] text-[#55626E]' />
+
 
   ]
   return (

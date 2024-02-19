@@ -16,7 +16,7 @@ function Welcome() {
     <div className="max-w-screen-xl px-4 py-8 mx-auto text-center lg:py-16 lg:px-12">
      
         <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none  md:text-5xl lg:text-5xl text-white">طبتم وطابت أوقاتكم وأعماركم أُهيل البناء المُبارك</h1>
-        <p class="mb-8 text-lg font-normal  lg:text-2xl
+        <p class="mb-8 text-lg font-semibold  lg:text-2xl
          sm:px-16 xl:px-48 text-gray-300">قال 
          الأعمش رحمهُ الله: لا أعلمُ للهِ قوماً أفضلَ من قومٍ يطلُبون الحَديث ويُحيون هذه السُّنة؛ كم أنتم في النَّاس لأنتم أقلُّ من الذهب
          </p>

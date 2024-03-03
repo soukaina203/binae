@@ -6,7 +6,7 @@ import Video from './Video';
 function Welcome() {
   return (
     <Zoom>{/*Using Zoom Effect*/}
-<section className="flex items-center justify-center w-full h-screen overflow-hidden bg-gray-900 ">
+<section className="flex items-center justify-center w-full h-screen overflow-hidden bg-gray-900 opacity-60 ">
 {/* <video src= 
 "Videos/Home.mp4"
             autoplay="{true}" loop muted 

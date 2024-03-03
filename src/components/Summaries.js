@@ -7,13 +7,19 @@ import { IoBookSharp, IoSunnyOutline } from "react-icons/io5";
 import Zoom from 'react-reveal/Zoom'; // Importing Zoom effect
 import { GiBookCover } from "react-icons/gi";
 import { FaFilePen } from "react-icons/fa6";
+import { FaCloudRain } from "react-icons/fa";
+import { ImBooks } from "react-icons/im";
 
 function Summaries() {
   const icons = [<FaMosque className='w-[4rem] h-[4rem] text-[#55626E]' />,
   <FaMoon className='w-[4rem] h-[4rem] text-[#55626E]' />, <IoSunnyOutline className='w-[4rem] text-[#55626E] h-[4rem]' />,
 <GiBookCover className='w-[4rem] h-[4rem] text-[#55626E]'/>,
 
-<FaFilePen className='w-[4rem] h-[4rem] text-[#55626E]' />
+<FaFilePen className='w-[4rem] h-[4rem] text-[#55626E]' />,
+<FaCloudRain className='w-[4rem] h-[4rem] text-[#55626E]' />,
+<ImBooks className='w-[4rem] h-[4rem] text-[#55626E]'/>
+
+
 
 
 

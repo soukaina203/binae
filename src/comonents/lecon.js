@@ -29,7 +29,6 @@ function Lecon() {
               ></iframe>
             </div>
           </div>
-
           <div className='w-full '>
             <div className="aspect-w-16 aspect-h-9">
               {/* Set the aspect ratio to 16:9 for the PDF viewer */}

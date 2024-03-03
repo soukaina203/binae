@@ -219,5 +219,103 @@ export const data = [
             },
         ]
     },
+    {
+        id: 6, week: ' الأسبوع السادس',
+        lecons: [
+            {
+                id: 1,
+                title:
+                    'باب في مركزية حسن الخلق والبر و الإحسان في حياة المسلم'
+                ,
+                pdf: 'six/1-1.pdf',
+                videoId: 'A8jGgA1dSUg'
+
+
+            },
+            {
+                id: 2,
+                title:
+                    'باب في مفاتيح الهداية والبصيرة ودوام احتياج المسلم إلى الهداية الربانية',
+                pdf: 'six/1-2.pdf',
+                videoId: 'UlPIIFBQzJc&t'
+
+
+            },
+            {
+                id: 3,
+                title:
+                    'باب في أهمية الصحبة الصالحة وفضل الحب في الله وخطورة التفرق والتنازع واختلاف الكلمة',
+                pdf: 'six/1-3.pdf',
+                videoId: '6LK4A1IOmFE'
+
+
+            },
+            {
+                id: 4,
+                title:
+                    'باب في الحذر من الفتن و ما يخشى على الصالحين من فتنة الدنيا و التنافس فيها',
+                pdf: 'six/1-4.pdf',
+                videoId: 'DnjMfeARpXQ'
+
+
+            },
+            {
+                id: 5,
+                title:
+                    'باب في فهم أسباب ضعف المسلمين واختلال أحوالهم وإخبار النبي عن ذلك',
+                pdf: 'six/1-5.pdf',
+                videoId: 'G1DOGo4Rie0&t'
+
+
+            },
+        ]
+    },
+    {
+        id: 7, week: ' الأسبوع السابع',
+        lecons: [
+            {
+                id: 1,
+                title:'باب في السنن الإلهية '
+                ,
+                pdf: 'seven/1-1.pdf',
+                videoId: 'YduAIggiUGY'
+
+
+            },
+            {
+                id: 2,
+                title:
+'باب في حسن العاقبة والتمكين بعد البلاء',
+                pdf: 'seven/1-2.pdf',
+                videoId: 'MeCpl7O9bj0'
+
+
+            },
+            {
+                id: 3,
+                title:'باب في المبشرات بالتمكين في آخر الزمان بعد الشدائد والفتن',
+                pdf: 'seven/1-3.pdf',
+                videoId: '6Bf_JJd3LNY'
+
+
+            },
+            {
+                id: 4,
+                title:'باب في الإسلام هو الدين الوحيد المقبول عند الله',
+                pdf: 'seven/1-4.pdf',
+                videoId: 'luc_NCdRtMw'
+
+
+            },
+            {
+                id: 5,
+                title:'باب في سير المؤمن بين الخوف والرجاء',
+                pdf: 'seven/1-5.pdf',
+                videoId: 'tzXsTqXNOq8'
+
+
+            },
+        ]
+    },
 
 ]

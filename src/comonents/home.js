@@ -57,6 +57,24 @@ function Home() {
  text-white text-[1.1rem] bg-[#7b6796] focus:outline-none '>
 تحميل جدول المرحلة التمهيدية</button>
 </a>
+
+
+<a download href={`resumePDF/resumeManhaj.pdf`}> 
+
+<button className='w-full px-4 py-3  font-semibold
+ text-white text-[1.1rem] bg-[#7b6796] focus:outline-none '>
+تحميل تلخيص متن المنهاج من ميراث النبوة
+</button>
+</a>
+
+<a download href={`resumePDF/Tachjir.pdf`}> 
+
+<button className='w-full px-4 py-3  font-semibold
+ text-white text-[1.1rem] bg-[#7b6796] focus:outline-none '>
+تحميل تشجير المنهاج من ميرات النبوة
+ </button>
+</a>
+
 </div>
 
       </div>

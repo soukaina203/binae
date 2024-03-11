@@ -1,7 +1,7 @@
 export const quiz = [
   {
     id: 1,
-    lien: "https://forms.gle/5fMSaVafinJGZCSV7",
+    lien: "https://forms.gle/ZeCK6o4j1K2Jjvx6A",
     resumeVideo: "jsJ4EZYDTmA",
     lecons: [
       {
@@ -116,7 +116,7 @@ export const quiz = [
   },
   {
     id: 4,
-    lien: "https://forms.gle/mzFkKg16a4gVAqNM7",
+    lien: "https://forms.gle/6hMAqPp5tVb1KU2V7",
     resumeVideo: "dodR8pivqCM",
     lecons: [
       {
@@ -158,8 +158,8 @@ export const quiz = [
   },
   {
     id: 5,
-    lien: "https://forms.gle/mzFkKg16a4gVAqNM7",
-    resumeVideo: "dodR8pivqCM",
+    lien: "https://forms.gle/SpDfbw4LfH56sw4RA",
+    resumeVideo: "xnRzjooH_SQ",
     lecons: [
       {
         id: 1,
@@ -241,7 +241,7 @@ export const quiz = [
   {
     id: 7,
     lien: "https://forms.gle/BFdHUPqHhCGV33Sp6",
-    resumeVideo: "bVktEsLBnsU",
+    resumeVideo: "qwsGV8bvjpU",
     lecons: [
       {
         id: 1,
@@ -273,6 +273,14 @@ export const quiz = [
         pdf: "seven/1-5.pdf",
         videoId: "tzXsTqXNOq8",
       },
+      {
+        id: 6,
+        title:'باب في الشوق إلى الله ورسوله ',
+        pdf: 'seven/1-6.pdf',
+        videoId: '-chYKXp9oNI'
+
+
+    },
     ],
   },
 ];

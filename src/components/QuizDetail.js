@@ -22,11 +22,16 @@ function QuizDetail() {
             </Link>
           </h2>
         ))}
-        <button className='px-4 py-2 mt-4 hover:opacity-80 bg-[#2E7C7F] '>
-          <a href={week.lien} target='_blank' rel="noreferrer" className='text-xl text-white text-semibold'>
+          <a href={week.lien} target='_blank' rel="noreferrer" 
+      
+          >
+        <button className='
+        w-full px-4 py-3  font-semibold
+ text-white text-[1.1rem] bg-[#2E7C7F]  focus:outline-none
+        '>
             التقييم
-          </a>
         </button>
+          </a>
       </div>
 
       {/* Video iframe on the right   lg:w-[50rem] lg:h-[28rem]  */}

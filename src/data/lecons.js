@@ -315,6 +315,14 @@ export const data = [
 
 
             },
+            {
+                id: 6,
+                title:'باب في الشوق إلى الله ورسوله ',
+                pdf: 'seven/1-6.pdf',
+                videoId: '-chYKXp9oNI'
+
+
+            },
         ]
     },
 

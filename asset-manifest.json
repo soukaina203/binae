@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/binae/static/css/main.55947ab0.css",
-    "main.js": "/binae/static/js/main.c46e84c4.js",
+    "main.css": "/binae/static/css/main.9d45ff14.css",
+    "main.js": "/binae/static/js/main.bf69c266.js",
     "static/js/787.6a16176a.chunk.js": "/binae/static/js/787.6a16176a.chunk.js",
     "index.html": "/binae/index.html",
-    "main.55947ab0.css.map": "/binae/static/css/main.55947ab0.css.map",
-    "main.c46e84c4.js.map": "/binae/static/js/main.c46e84c4.js.map",
+    "main.9d45ff14.css.map": "/binae/static/css/main.9d45ff14.css.map",
+    "main.bf69c266.js.map": "/binae/static/js/main.bf69c266.js.map",
     "787.6a16176a.chunk.js.map": "/binae/static/js/787.6a16176a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55947ab0.css",
-    "static/js/main.c46e84c4.js"
+    "static/css/main.9d45ff14.css",
+    "static/js/main.bf69c266.js"
   ]
 }

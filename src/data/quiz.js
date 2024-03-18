@@ -158,7 +158,8 @@ export const quiz = [
   },
   {
     id: 5,
-    lien: "https://forms.gle/SpDfbw4LfH56sw4RA",
+    // lien: "https://forms.gle/SpDfbw4LfH56sw4RA",
+    lien:"https://forms.gle/DkTyK2C9GUrgpXAo6",
     resumeVideo: "xnRzjooH_SQ",
     lecons: [
       {
